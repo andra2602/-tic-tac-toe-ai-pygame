@@ -1,5 +1,11 @@
 # 🎮 X & 0 - AI Tic-Tac-Toe Game
 
+![Python](https://img.shields.io/badge/python-3.13-blue?logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/pygame-2.5-green?logo=python&logoColor=white)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)
+![GitHub stars](https://img.shields.io/github/stars/andra2602/Tic-Tac-Toe-AI-pygame?style=social)
+
 X & 0 is an interactive Tic-Tac-Toe game built using **Python** and **Pygame**. It supports two intelligent algorithms: **Minimax** and **Alpha-Beta Pruning**.  
 This project was developed for personal portfolio purposes and is a rework of a classroom assignment.
 
